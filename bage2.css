@@ -1,0 +1,178 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Tajawal', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+}
+@media screen and (max-width:600px){
+.ehedr h2{
+    font-size: 1rem;
+    margin-top: 3rem;
+    margin-left: 4.70rem;
+    max-width: 9rem;
+}
+.box1{
+    width: 200px;
+    height: 300px;
+    background-color: rgb(123, 171, 255);
+    margin-left: 2.50rem;
+    margin-top: 2.50rem;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px;
+}
+.box1-2{
+    height: 100px;
+    background-color: rgb(66, 108, 182);
+    border-radius: 10px 10px 0px 1px;
+}
+.img1{
+    width: 70px;
+    margin-left: 4rem;
+    border-radius: 9px;
+    margin-top: 3rem;
+    box-shadow: 0px 0px 10px;
+}
+.box1-2 h2{
+    margin-top: -0.90rem;
+    color: aliceblue;
+    margin-left: 4.30rem;
+    text-shadow: 0px 0px 10px;
+}
+.icon1{
+    margin-left: 10.50rem;
+    color: chartreuse;
+    text-shadow: 0px 0px 10px;
+}
+.icon1 h3{
+    margin-left: -9.50em;
+    font-size: 0.80rem;
+    margin-top: -1.20rem;
+    color: aliceblue;
+}
+.icon1 button{
+    margin-left: -7.70rem;
+    width: 7.50rem;
+    height: 2rem;
+    background-color: rgb(66, 108, 182);
+    border: none;
+    border-radius: 5px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 0.80rem;
+    color: aliceblue;
+}
+/* box2 */
+.box2{
+    width: 200px;
+    height: 300px;
+    background-color: rgb(123, 171, 255);
+    margin-left: 2.50rem;
+    margin-top: 2.50rem;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px;
+}
+.box1-3{
+    height: 100px;
+    background-color: rgb(66, 108, 182);
+    border-radius: 10px 10px 0px 1px;
+}
+.img2{
+    width: 70px;
+    margin-left: 4rem;
+    border-radius: 9px;
+    margin-top: 3rem;
+    box-shadow: 0px 0px 10px;
+}
+.box1-3 h2{
+    margin-top: -0.90rem;
+    color: aliceblue;
+    margin-left: 4.30rem;
+    text-shadow: 0px 0px 10px;
+    font-size: 1rem;
+}
+.icon2{
+    margin-left: 10.50rem;
+    color: chartreuse;
+    text-shadow: 0px 0px 10px;
+}
+.icon2 h3{
+    margin-left: -9.50em;
+    font-size: 0.80rem;
+    margin-top: -1.20rem;
+    color: aliceblue;
+}
+.icon2 button{
+    margin-left: -7.70rem;
+    width: 7.50rem;
+    height: 2rem;
+    background-color: rgb(66, 108, 182);
+    border: none;
+    border-radius: 5px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 0.80rem;
+    color: aliceblue;
+}
+.x{
+    color: rgb(255, 0, 0);
+}
+}
+@media screen and (min-width:600px) and (max-width:800px) {
+.ehedr h2{
+    margin-left: 12rem;
+    font-size: 1.70rem;
+    max-width: 15rem;
+}
+.box1{
+    width: 25rem;
+    height: 30rem;
+    margin-left: 6rem;
+}
+.icon1{
+    margin-left: 21rem;
+    font-size: 2.50rem;
+}
+.icon1 h3{
+    font-size: 1.60rem;
+    margin-top: -2.50rem;
+}
+.icon1 button{
+    margin-left: -14.50rem;
+    width: 14rem;
+    height: 4rem;
+    font-size: 1.40rem;
+    margin-top: -1rem;
+}
+.box1-2 h2{
+    margin-left: 9.70rem;
+}
+.img1{
+    margin-left: 9.30rem;
+    width: 7rem;
+}
+/* box2 */
+.box2{
+    width: 25rem;
+    height: 30rem;
+    margin-left: 6rem;
+}
+.icon2{
+    margin-left: 21rem;
+    font-size: 2.50rem;
+}
+.icon2 h3{
+    font-size: 1.60rem;
+    margin-top: -2.50rem;
+}
+.icon2 button{
+    margin-left: -14.50rem;
+    width: 14rem;
+    height: 4rem;
+    font-size: 1.40rem;
+    margin-top: -1rem;
+}
+.box1-2{
+    font-size: 1rem;
+}
+.img2{
+    margin-left: 9.30rem;
+    width: 7rem;
+}
+}
